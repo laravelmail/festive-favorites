@@ -1,0 +1,525 @@
+{
+  "body": {
+    "rows": [
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Happy Holiday Shopping",
+                  "color": "#333333",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "open sans,sans-serif"
+                  },
+                  "paddingTop": "540px",
+                  "paddingBottom": "10px",
+                  "paddingLeft": "10px",
+                  "paddingRight": "10px"
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "text": "Celebrate the Season with Us: Special Offers Await!",
+                  "color": "#333333",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "open sans,sans-serif"
+                  },
+                  "paddingTop": "10px",
+                  "paddingBottom": "10px",
+                  "paddingLeft": "50px",
+                  "paddingRight": "50px"
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "text": "Explore Holiday Offers Now",
+                  "color": "#333333",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "open sans,sans-serif"
+                  },
+                  "paddingTop": "10px",
+                  "paddingBottom": "50px",
+                  "paddingLeft": "10px",
+                  "paddingRight": "10px"
+                }
+              }
+            ],
+            "values": {
+              "backgroundImage": {
+                "url": "assets/1703657401975-woman-jumping-with-shopping-bags.gif",
+                "repeat": "no-repeat",
+                "position": "center top"
+              },
+              "backgroundColor": "transparent",
+              "paddingTop": "0px",
+              "paddingBottom": "0px",
+              "paddingLeft": "0px",
+              "paddingRight": "0px"
+            }
+          }
+        ],
+        "values": {
+          "backgroundColor": "transparent"
+        }
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Happy Holiday Shopping",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "'Open Sans', sans-serif"
+                  },
+                  "padding": {
+                    "top": "540px",
+                    "right": "10px",
+                    "left": "10px",
+                    "bottom": "10px"
+                  }
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Celebrate the Season with Us: Special Offers Await!",
+                  "fontFamily": "Open Sans,sans-serif"
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px 50px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Explore Holiday Offers Now",
+                  "style": {
+                    "font-family": "'Open Sans', sans-serif"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px 10px 50px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Limited Time Offers Under $25",
+                  "color": "#333333",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "open sans,sans-serif"
+                  },
+                  "padding": "30px 10px"
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {
+          "backgroundColor": "transparent",
+          "overflowWrap": "break-word",
+          "wordBreak": "break-word",
+          "padding": "0"
+        }
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Holiday Deals Under $50",
+                  "style": {
+                    "font-family": "'Open Sans', sans-serif"
+                  },
+                  "padding": "30px 10px"
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Amazing Holiday Sales Under $75",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "open sans, sans-serif"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "padding": "30px 10px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Men's Holiday Sale",
+                  "fontFamily": {
+                    "label": "'Open Sans',sans-serif",
+                    "value": "'Open Sans',sans-serif"
+                  },
+                  "padding": "30px 10px"
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Women's Holiday Sale",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "'Open Sans', sans-serif"
+                  },
+                  "padding": "30px 10px"
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {
+          "backgroundColor": "transparent",
+          "padding": "0"
+        }
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Holiday Deals for Kids",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "'Open Sans',sans-serif"
+                  },
+                  "padding": "30px 10px"
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Experience warm hospitality at [HotelName] during the festive season. Here's hoping this message finds you in high spirits!",
+                  "fontFamily": "Open Sans, sans-serif"
+                }
+              }
+            ],
+            "values": {
+              "padding": "30px 50px 10px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "Explore Holiday Offers Now",
+                  "fontFamily": "Open Sans, sans-serif"
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px 10px 60px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/facebook.png"
+                  },
+                  "altText": "Facebook"
+                }
+              },
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/linkedin.png"
+                  },
+                  "altText": "LinkedIn"
+                }
+              },
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/instagram.png"
+                  },
+                  "altText": "Instagram"
+                }
+              },
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/x.png"
+                  },
+                  "altText": "X"
+                }
+              }
+            ],
+            "values": {
+              "padding": "60px 10px 10px",
+              "fontFamily": "Open Sans,sans-serif"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/facebook.png"
+                  },
+                  "altText": "Facebook",
+                  "width": "32"
+                }
+              }
+            ],
+            "values": {}
+          }
+        ],
+        "values": {
+          "padding": "0",
+          "borderCollapse": "collapse !important",
+          "verticalAlign": "top",
+          "wordBreak": "break-word"
+        }
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/linkedin.png"
+                  },
+                  "altText": "LinkedIn",
+                  "width": "32"
+                }
+              }
+            ],
+            "values": {
+              "padding": "0"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/instagram.png"
+                  },
+                  "altText": "Instagram",
+                  "width": "32"
+                }
+              }
+            ],
+            "values": {
+              "style": "-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "image",
+                "values": {
+                  "src": {
+                    "url": "assets/x.png"
+                  },
+                  "altText": "X",
+                  "width": "32"
+                }
+              }
+            ],
+            "values": {
+              "padding": "0px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": "UNSUBSCRIBE   |   PRIVACY POLICY   |   WEB",
+                  "color": "#000",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "open sans,sans-serif"
+                  }
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "text": "",
+                  "color": "#000",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "open sans,sans-serif"
+                  }
+                }
+              },
+              {
+                "type": "text",
+                "values": {
+                  "text": "Unveil our curated collection of festive items! Enjoy savings on your preferred choices and make this holiday season extraordinary!",
+                  "color": "#000",
+                  "fontFamily": {
+                    "label": "Open Sans",
+                    "value": "open sans,sans-serif"
+                  }
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px 100px 30px"
+            }
+          }
+        ],
+        "values": {}
+      },
+      {
+        "columns": [
+          {
+            "contents": [
+              {
+                "type": "text",
+                "values": {
+                  "text": ""
+                }
+              }
+            ],
+            "values": {
+              "padding": "10px"
+            }
+          }
+        ],
+        "values": {}
+      }
+    ],
+    "values": {
+      "backgroundColor": "#ffffff",
+      "contentWidth": "600px",
+      "fontFamily": {
+        "label": "Arial",
+        "value": "arial,helvetica,sans-serif"
+      }
+    }
+  },
+  "schemaVersion": 15
+}
